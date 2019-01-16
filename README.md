@@ -38,4 +38,5 @@ npm packages used:
 dotenv.
 request (omdb api).
 node-spotify-api.
+figlet.
 fs.
